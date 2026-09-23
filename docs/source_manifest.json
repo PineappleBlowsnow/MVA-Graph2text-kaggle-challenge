@@ -1,0 +1,46 @@
+{
+  "source_package": "Local ALTeGraD Molecular Graph Captioning coursework, 2025–2026",
+  "packaged_on": "2026-09-23",
+  "files": [
+    {
+      "target": "data_utils.py",
+      "source": "molecular-graph-captioning/data_baseline/data_utils.py",
+      "source_sha256": "cbe38f7ccd709dd282cd83365b34ed7e8034a00e449a0f5b8b15103acebf5850"
+    },
+    {
+      "target": "generate_description_embeddings.py",
+      "source": "molecular-graph-captioning/data_baseline/generate_description_embeddings.py",
+      "source_sha256": "1c65d9a0066e450fd71a5649df0b8f7b1f0ef39cab57b13aace5975cf25713bd"
+    },
+    {
+      "target": "train_retrieval.py",
+      "source": "molecular-graph-captioning/data_baseline/train_gcn.py",
+      "source_sha256": "63f96316ff38e42dcdec9a1b43b5ded6cf7f0e30b558823e85239163ac77af77"
+    },
+    {
+      "target": "retrieve_descriptions.py",
+      "source": "molecular-graph-captioning/data_baseline/retrieval_answer.py",
+      "source_sha256": "cc998d851e7e1a176b32fb149994208eebb509e4181db7afe646cdbb5911eb3b"
+    },
+    {
+      "target": "train_graph_gpt2.py",
+      "source": "molecular-graph-captioning_copy/data_baseline/train_freezegnn+GPT2.py",
+      "source_sha256": "eb98fa792c2fb2911bb5c06297fd615b64291b761aaaefeaa9a2a8a64a25221d"
+    },
+    {
+      "target": "generate_graph_gpt2.py",
+      "source": "molecular-graph-captioning/data_baseline/generate_kaggle_descriptions.py",
+      "source_sha256": "6bc7c698566653fdd19081c06323f2d87d95a1d14ea911c5d0f101e1c0f8061e"
+    },
+    {
+      "target": "notebooks/graph_biot5.ipynb",
+      "source": "molecular-graph-captioning_copy/data_baseline/Graph_BIOT5(colab version).ipynb",
+      "source_sha256": "eada825542344f503595c50dbf1c75f8ab6f9cec566adc7ad3f422759ef1bc09"
+    },
+    {
+      "target": "notebooks/graph_biogpt.ipynb",
+      "source": "molecular-graph-captioning_copy/data_baseline/train_gnn+BioGPT(colab version).ipynb",
+      "source_sha256": "5793686b22467a9693601090f9b4ff123cce668926f65d94a38ae0e960506eb2"
+    }
+  ]
+}
